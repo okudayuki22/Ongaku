@@ -1,5 +1,5 @@
 # Ongaku
-A very Siomple C++ IO Audio Libary with RtAudio and SFML.
+A very Simple C++ IO Audio Libary with RtAudio and SFML.
 
 # Installation
 
